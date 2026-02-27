@@ -1,4 +1,5 @@
-### The goal of this repository is to showcase my learning progress || O objetivo deste repositório é mostrar meu progresso de aprendizagem.
+### The goal of this repository is to showcase my learning progress ||
+|| O objetivo deste repositório é mostrar meu progresso de aprendizagem.
 <hr>
 
  <details>
