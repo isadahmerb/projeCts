@@ -29,13 +29,13 @@ int main() {
 
     fclose(ptr);
 
-    printf("Saved password %s \n", saved_pass);
+
     int l = strcmp(pass, saved_pass);
     if (l == 0) {
         printf("LOGIN SUCESSFULLY \n");
     }
     else {
-        printf("INCORRET PASSWAORD\n");
+        printf("INCORRET PASSWORD\n");
     }
 
 
