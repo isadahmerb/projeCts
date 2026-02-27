@@ -8,6 +8,6 @@
 
 
 
-  <img src="right.jpg" width="200">
+  <img src="rigth.jpg" width="200">
   <img src="wrong.jpg" width="200">
  </details>
