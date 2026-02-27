@@ -5,5 +5,5 @@
  <details>
   <summary>Login Terminal</summary>
      <sub>Simula uma tela de login basica, existe uma senha cadastrada que quando digitada imprime na tela "Login Sucessfully", caso contrario imprime "INCORRECT PASSWORD"</sub>
-  <img src="wromg.png" width="100">
+  <img src="wromg.jp" width="100">
  </details>
